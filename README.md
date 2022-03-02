@@ -1,6 +1,8 @@
 # Minesweeper using the Recursion Algorithm
 A simplified game of minesweeper using vanilla JavaScript
 
+[Play](http://girishgodage.in/minesweeper/)
+
 
 In this walkthrough, I show you how to build Minesweeper in pure JavaScript, HTML, and CSS. 
 
